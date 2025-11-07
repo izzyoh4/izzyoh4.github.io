@@ -333,7 +333,7 @@ white-space: pre;
 @media (max-width: 575.98px) {
 
   p {
-    color: purple;
+    color: #E2D4BA;
   }
 
   .main {
@@ -345,7 +345,7 @@ white-space: pre;
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
   p {
-    color: green;
+    color: #E2D4BA;
   }
 
   .main {
@@ -357,7 +357,7 @@ white-space: pre;
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
   p {
-    color: blue;
+    color: #E2D4BA;
   }
 }
 
